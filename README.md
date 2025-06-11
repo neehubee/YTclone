@@ -1,2 +1,2 @@
 # YTclone
-An enhanced version of yt clone 
+To learn the CSS and HTML basics in detail.
